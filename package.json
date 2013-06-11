@@ -1,7 +1,7 @@
 {
   "name": "grunt-tasks-list",
   "description": "Grunt plugin to get a list of tasks and descriptions of your choosing.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/ryansylvestre/grunt-tasks-list",
   "author": {
     "name": "Ryan Sylvestre",
