@@ -46,7 +46,6 @@ An `array` of `string` task names and/or objects with name (`string`) and info (
 ### Usage Examples
 
 #### Custom Options
-In this example, custom options are used to do something else with whatever else. So if the `testing` file has the content `Testing` and the `123` file had the content `1 2 3`, the generated result in this case would be `Testing: 1 2 3 !!!`
 
 ```js
 grunt.initConfig({
